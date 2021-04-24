@@ -5,6 +5,7 @@
 }
 
 :root {
+    /*
     --white: #FFF;
 
     --gray-50: #F7F8FA;
@@ -19,6 +20,23 @@
     --purple-400: #9164FA; 
     --purple-500: #8257E5;
     --purple-800: #6F48C9;
+    */
+
+    //OMNI
+    --white: #483C67;
+
+    --gray-50: #191622;
+    --gray-100: #483C67;
+    --gray-200: #988BC7;
+    --gray-500: #B0C4DE;
+    --gray-800: #fff;
+
+    --green-500: #FF79C6;
+
+    --purple-300: #E89E64;
+    --purple-400: #E7DE79; 
+    --purple-500: #78D1E1;
+    --purple-800: #67E480;
 }
 
 @media (max-width: 1080px) {
