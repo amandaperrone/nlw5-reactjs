@@ -6,7 +6,7 @@ Projeto desenvolvido durante a Next Level Week 5.
 Página web para ouvir podcasts. Possui todas as funções de áudio (reproduzir, pausar, tocar próximo, tocar anterior, embaralhar e repetir) e exibe uma página com a descrição do episódio ao clicar em seu título.
 
 ## 🔗 LINK PARA ACESSO
-https://nlw5-amandaperrone.vercel.app/
+https://nlw5-reactjs-amandaperrone.vercel.app
 
 
 ## ✨ O QUE TEM DE NOVO?
